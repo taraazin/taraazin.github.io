@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /404/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Linguistics, Carleton University, 2021 - 2025
+* M.Sc. in Computational Linguistics, Sharif University of Technology, 2014
 
 Work experience
 ======
