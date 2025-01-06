@@ -29,6 +29,8 @@ Though challenging, the experience reinforced my belief in the importance of cre
 Yoga has been a cornerstone of my journey, helping me stay grounded and resilient through the rigors of academic life. I hope to share the practice with others to foster balance, mindfulness, and a sense of community.
 
 ![Tara practicing yoga](/images/IMG_3259.JPG)
+*Embracing the serenity of Warrior II pose at a lakeside cottage in Antoine-Labelle, Quebec, with the calm waters of White Fish Lake reflecting the stillness of the moment.*
+
 
 
 
