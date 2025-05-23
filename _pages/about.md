@@ -22,9 +22,9 @@ Apart from all these, I'm deeply passionate about all aspects of language techno
 
 ## Beyond Academia
 
-After more than a decade of practicing yoga for my own mental and physical health, I realized how transformative yoga can be for students, especially those navigating the challenges of graduate studies. As a PhD student, I decided to pursue an intensive 200-hour Yoga Teacher Training program at Pranashanti Yoga School in Ottawa during summer 2024.
+After more than a decade of practicing yoga for my own mental and physical health, I realized how transformative yoga can be for students, especially those navigating the challenges of graduate studies. As a PhD student, I decided to pursue an intensive 200-hour Yoga Teacher Training program at [Pranashanti Yoga School] (https://pranashanti.com/) in Ottawa, Canada, during summer 2024.
 
-Though challenging, the experience reinforced my belief in the importance of creating spaces where students can prioritize their well-being. This Winter, alongside my role as a Teaching Assistant in the Department of Cognitive Science, I’m thrilled to be teaching a Yoga class at [Carleton University’s Athletics Center](https://athletics.carleton.ca/). 
+Though challenging, the experience reinforced my belief in the importance of creating spaces where students can prioritize their well-being. In Winter 2025, alongside my role as a teaching assistant in the Department of Cognitive Science, I had the opportunity to teach a Yoga class at [Carleton University’s Athletics Center](https://athletics.carleton.ca/). 
 
 Yoga has been a cornerstone of my journey, helping me stay grounded and resilient through the rigors of academic life. I hope to share the practice with others to foster balance, mindfulness, and a sense of community.
 
