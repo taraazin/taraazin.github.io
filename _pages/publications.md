@@ -15,4 +15,4 @@ author_profile: true
 
 - Roodi, F., Azin, T. (2019) “Developing Intercultural Competence: Surveying EFL Learners’ Knowledge, Strategies, and Attitudes”. TESL Ontario, Contact Magazine, 45(3), 16-40.
 
-- Azin, T., Bahrani, M., Sadeghi, S., Kowsari, Z. (2019) “Automatic Blank Verse Poet Identification: Semantic Features in Focus”. In proceedings of the 2nd National Conference on Applied Research in Computational Linguistics, Shiraz, Iran (pp. 321-331).
+- Azin, T., Bahrani, M., Sadeghi, S., Kowsari, Z. (2019) “Automatic Blank Verse Poet Identification: Semantic features in Focus”. In proceedings of the 2nd National Conference on Applied Research in Computational Linguistics, Shiraz, Iran (pp. 321-331).
