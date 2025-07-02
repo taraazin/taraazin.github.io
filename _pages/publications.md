@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Azin, T., Dumitrescu, D., Inkpen, D., Singh, R. (2025) “Let’s CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition”. In Proceedings of the Canadian Conference on Artificial Intelligence. [Link](https://caiac.pubpub.org/pub/keh8ij01/)
+
 - Takhshid, R., Azin, T., Shojaei, R., Bahrani, M. (2024) “Persian Abstract Meaning Representation: Annotation Guidelines and Gold Standard Dataset". In Proceedings of the 2024 UMR Parsing Workshop (pp. 8-15). [Link](https://aclanthology.org/2024.umrpw-1.2/)
 
 - Ahmadi, S., Azin, T., Belelli, S., Anastasopoulos, A. (2023) “Approaches to Corpus Creation for Low-Resource Language Technology: the Case of Southern Kurdish and Laki”. In proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics. [Link](https://aclanthology.org/2023.fieldmatters-1.7/)
