@@ -20,16 +20,6 @@ In 2018, I began my second master’s in Computer Science at Istanbul Technical 
 
 Apart from all these, I'm deeply passionate about all aspects of language technology and its impact on enhancing machines' understanding of human language. I am fascinated by discovering innovative ways to transfer human knowledge to machines, empowering them to support and assist us. As a proud member of the <a href="https://en.wikipedia.org/wiki/Southern_Kurdish" target="_blank"> Southern Kurdish </a> community in Iran, I'm driven to create digital resources for this under-resourced language to ensure equitable access to language technology for all.
 
-## Beyond Academia
-
-After more than a decade of practicing yoga for my own mental and physical health, I realized how transformative yoga can be for students, especially those navigating the challenges of graduate studies. As a PhD student, I decided to pursue an intensive 200-hour Yoga Teacher Training program at [Pranashanti Yoga School](https://pranashanti.com/) in Ottawa, Canada, during summer 2024.
-
-Though challenging, the experience reinforced my belief in the importance of creating spaces where students can prioritize their well-being. In Winter 2025, I had the opportunity to teach a Yoga class at [Carleton University’s Athletics Center](https://athletics.carleton.ca/). 
-
-Yoga has been a cornerstone of my journey, helping me stay grounded and resilient through the rigors of academic life. I hope to share the practice with others to foster balance, mindfulness, and a sense of community.
-
-<img src="/images/IMG_3259.JPG" alt="Tara practicing yoga" style="width:50%; max-width:400px; height:auto; display:block; margin:auto;" />
-*Embracing the serenity of Warrior II pose at a lakeside cottage in Antoine-Labelle, Quebec, with the calm waters of White Fish Lake reflecting the stillness of the moment.*
 
 
 
