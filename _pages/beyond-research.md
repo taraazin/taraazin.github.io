@@ -17,7 +17,13 @@ In 2025, I had the opportunity to teach a yoga flow class at Carleton University
 
 Yoga has always been a cornerstone of my journey. It has helped me stay grounded and resilient through the rigors of academic life. My hope is to share this practice with others, to help them discover balance, mindfulness, and a sense of connection.  
 
----
 
-![Warrior II pose at a lakeside cottage in Antoine-Labelle, Quebec, Canada — Fall 2024](/images/IMG_3259.JPG){: style="display:block; margin-left:auto; margin-right:auto; width:300px; border-radius:8px;" }
-*Warrior II pose at a lakeside cottage in Antoine-Labelle, Quebec, Canada — Fall 2024.*
+<div style="text-align:center; width:300px; margin: 0 auto;">
+  <img src="/images/IMG_3259.JPG" 
+       alt="Warrior II pose at a lakeside cottage in Antoine-Labelle, Quebec, Canada — Fall 2024" 
+       style="width:100%; border-radius:8px;">
+  <p style="font-style:italic; margin-top:8px;">
+    Warrior II pose at a lakeside cottage in Antoine-Labelle, Quebec, Canada — Fall 2024.
+  </p>
+</div>
+
