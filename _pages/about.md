@@ -25,7 +25,7 @@ My PhD research takes on the Proviso Problem, a classic puzzle in formal semanti
 Semantics is tricky because humans don’t always say what they mean: we lie, we joke, we hint, we presuppose. If even people trip over meaning, can machines ever truly get it? I’m exploring one small piece of that big question by focusing on presuppositions in conditionals.
 
 
-## My Academic Story
+## All the Other Things I’ve Done and Am Interested In
 I hold an MSc in Computational Linguistics from Sharif University of Technology, Iran. My thesis focused on authorship attribution and writing style detection. Later, I collaborated on a project to create the first gold-standard dataset of <a href="https://aclanthology.org/2024.umrpw-1.2/" target="_blank"> Persian Abstract Meaning Representation </a>. That project made me even more interested in semantics and its potential to make meaning more machine-readable by building graphs of meaning based on syntactic and semantic rules.
 
 In 2018, I began my second master’s in Computer Science at Istanbul Technical University in Türkiye, which I pursued until 2020. Although the degree remained unfinished due to my immigration to Canada and the onset of the COVID-19 pandemic, I completed all the coursework for the program. During that time, I also authored an ACL publication on <a href="https://aclanthology.org/P19-2006/" target="_blank"> Turkish Abstract Meaning Representation </a>.
