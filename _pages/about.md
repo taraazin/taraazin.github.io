@@ -15,6 +15,15 @@ My PhD research takes on the Proviso Problem, a classic puzzle in formal semanti
 
 Semantics is tricky because humans don’t always say what they mean: we lie, we joke, we hint, we presuppose. If even people trip over meaning, can machines ever truly get it? I’m exploring one small piece of that big question by focusing on presuppositions in conditionals.
 
+
+
+<p align="center">
+  <img src="/images/proviso.png" alt="picture illustrating the Proviso Problem in presuppositions" width="500" style="border:1px solid #ccc; padding:8px; background-color:#f9f9f9;">
+  <br>
+  <em>This is a classic example of how understanding presuppositions becomes tricky in complex sentence structures such as conditionals. </em>
+</p>
+
+
 ## My Academic Story
 I hold an MSc in Computational Linguistics from Sharif University of Technology, Iran. My thesis focused on authorship attribution and writing style detection. Later, I collaborated on a project to create the first gold-standard dataset of <a href="https://aclanthology.org/2024.umrpw-1.2/" target="_blank"> Persian Abstract Meaning Representation </a>. That project made me even more interested in semantics and its potential to make meaning more machine-readable by building graphs of meaning based on syntactic and semantic rules.
 
