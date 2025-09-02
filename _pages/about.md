@@ -38,7 +38,10 @@ In 2018, I began my second master’s in Computer Science at Istanbul Technical 
 
 Apart from my main research, I carry a deep personal passion for language technology for less-resourced languages. I grew up in western Iran as part of the <a href="https://en.wikipedia.org/wiki/Southern_Kurdish" target="_blank">Southern Kurdish</a> community. Southern Kurdish is a branch of Kurdish language spoken by many, yet almost invisible in the world of technology. Realizing how many speakers of minority languages face barriers to technology simply because of language has made me believe that the computational linguistics community must do more to address the gap. I have been, and will continue to be, active in this area because for me it’s not just about technology, it’s about equity, identity, and making sure every language has a voice.
 
-For more on all the projects described above, check out my publications page. 
+For more on all the projects described above, check out my <a href="https://taraazin.github.io/publications/" target="_blank">publications</a> page. 
+
+
+
 
 
 
