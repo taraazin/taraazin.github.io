@@ -16,10 +16,16 @@ My PhD research takes on the Proviso Problem, a classic puzzle in formal semanti
 
 
 <p align="center">
-  <img src="/images/proviso.png" alt="picture illustrating the Proviso Problem in presuppositions" width="500" style="border:1px solid #ccc; padding:8px; background-color:#f9f9f9;">
+  <img src="/images/proviso.png" 
+       alt="picture illustrating the Proviso Problem in presuppositions" 
+       width="600" 
+       style="border:1px solid #ccc; padding:2px; background-color:#f9f9f9;">
   <br>
-  <em>This is a classic example of how understanding presuppositions becomes tricky in complex sentence structures such as conditionals. </em>
+  <span style="font-size:0.9em; color:#555;">
+    <em>This is a classic example of how understanding presuppositions becomes tricky in complex sentence structures such as conditionals.</em>
+  </span>
 </p>
+
 
 
 Semantics is tricky because humans don’t always say what they mean: we lie, we joke, we hint, we presuppose. If even people trip over meaning, can machines ever truly get it? I’m exploring one small piece of that big question by focusing on presuppositions in conditionals.
