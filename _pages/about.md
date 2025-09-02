@@ -13,8 +13,6 @@ I’m a PhD student in Cognitive Science at Carleton University, Canada. My back
 
 My PhD research takes on the Proviso Problem, a classic puzzle in formal semantics, by looking at how humans and language models process presuppositions in complex sentences. Put simply, I study the hidden assumptions we sneak into our words and explore how machines struggle (sometimes hilariously) to keep up.
 
-Semantics is tricky because humans don’t always say what they mean: we lie, we joke, we hint, we presuppose. If even people trip over meaning, can machines ever truly get it? I’m exploring one small piece of that big question by focusing on presuppositions in conditionals.
-
 
 
 <p align="center">
@@ -22,6 +20,9 @@ Semantics is tricky because humans don’t always say what they mean: we lie, we
   <br>
   <em>This is a classic example of how understanding presuppositions becomes tricky in complex sentence structures such as conditionals. </em>
 </p>
+
+
+Semantics is tricky because humans don’t always say what they mean: we lie, we joke, we hint, we presuppose. If even people trip over meaning, can machines ever truly get it? I’m exploring one small piece of that big question by focusing on presuppositions in conditionals.
 
 
 ## My Academic Story
