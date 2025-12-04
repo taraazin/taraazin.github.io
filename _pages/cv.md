@@ -9,7 +9,7 @@ author_profile: true
 </p>
 
 <div style="transform: scale(0.85); transform-origin: top center; width: 100%; overflow: hidden;">
-  <iframe src="https:/drive.google.com/file/d/14u6U2hUT1ScUKXjfi5vMGLeyBxJ9t-EC/preview"
+  <iframe src="https://drive.google.com/file/d/14u6U2hUT1ScUKXjfi5vMGLeyBxJ9t-EC/preview"
   view?usp=sharing
           width="100%" height="800px" style="border: none;"></iframe>
 </div>
