@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ------
-I’m a final-year PhD student in Cognitive Science at Carleton University, Canada. My background is in Computational Linguistics with a focus on Computational Semantics. I spend a lot of time wondering if machines will ever actually “get” what humans mean. Spoiler alert: they don’t! Transformers (the LLMs everyone’s hyped about) are great at spitting out patterns, but genuine understanding? Not so much.
+I’m a final-year PhD candidate in Cognitive Science at Carleton University, Canada. My background is in Computational Linguistics with a focus on Computational Semantics. I spend a lot of time wondering if machines will ever actually “get” what humans mean. Spoiler alert: they don’t! Transformers (the LLMs everyone’s hyped about) are great at spitting out patterns, but genuine understanding? Not so much.
 
 My PhD research takes on the Proviso Problem, a classic puzzle in formal semantics, by looking at how humans and language models process presuppositions in complex sentences. Put simply, I study the hidden assumptions we sneak into our words and explore how machines struggle (sometimes hilariously) to keep up.
 
