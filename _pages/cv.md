@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 <p style="font-style: italic; color: gray; margin-top: -10px;">
-  Last updated: December 4, 2025
+  Last updated: March 9, 2026
 </p>
 
 <div style="transform: scale(0.85); transform-origin: top center; width: 100%; overflow: hidden;">
