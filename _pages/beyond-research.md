@@ -16,12 +16,12 @@ That changed in 2024. After a conversation with a postdoc who was visibly worn d
 This February, I finally made it back to where it all began: two weeks in Rishikesh, India practicing along the Ganges at sunrise. It felt like closing a loop I'd opened at 17.
 
 
-<div style="text-align:center; width:300px; margin: 0 auto;">
+<div style="text-align:center; max-width:700px; margin: 24px auto;">
   <img src="/images/IMG_ashram.JPG" 
-       alt="Rishikesh, 2026" 
+       alt="Tara at a jungle ashram in Rishikesh, India, surrounded by the Himalayan foothills" 
        style="width:100%; border-radius:8px;">
-  <p style="font-style:italic; margin-top:8px;">
-    
+  <p style="font-style:italic; margin-top:8px; font-size:0.95em;">
+    Rishikesh, India, 2026 — at a jungle ashram in the Himalayan foothills.
   </p>
 </div>
 
