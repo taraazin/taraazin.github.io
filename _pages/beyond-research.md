@@ -5,18 +5,28 @@ permalink: /beyond-research/
 author_profile: true
 ---
 
+Well, if you've landed here, I'm guessing you want to know what I get up to outside of research. Fair warning: this is a research-free zone.
+
 My main refuge from all the thinking and hustle of work is yoga and meditation.  
 
-It all started when I was 17 and traveled to India for the first time. That was where I first became familiar with yoga and began practicing it on a regular basis. I did some basic yoga teacher training at a young age, but I never pursued it seriously and instead kept it as a private, sacred moment to listen to my body.  
 
-In 2024, in the middle of my PhD, after a conversation with one of the postdocs about how stressful academia had been for him and how it was negatively affecting his health, I realized how beneficial yoga can be for students, especially those navigating the challenges of graduate studies. I decided to do an intensive 200-hour Yoga Teacher Training program at [Pranashanti Yoga School](https://pranashanti.com/) in Ottawa, Canada, during the summer of 2024. I applied for the scholarship that Pranashanti was offering to one individual and was fortunate to be accepted into the program.  
+It started at 17, on my first trip to India — somewhere between the chaos of the streets and a quiet morning practice, I was hooked. I did a short teacher training back then but kept yoga as a private ritual rather than a profession.
+That changed in 2024. After a conversation with a postdoc who was visibly worn down by academia, I realized how much grad students could use this. So, in the middle of my PhD, I signed up for a 200-hour Yoga Teacher Training at [Pranashanti Yoga School](https://pranashanti.com/) in Ottawa (thankfully on their scholarship). Balancing intensive training with research was… an experience. But would I recommend it? Honestly, yes. In 2025, I began teaching a flow class at Carleton's Athletics Center. 
 
-Balancing my PhD with the demands of this 200-hour intensive training was not easy, but I managed to do both. Although it was challenging, the experience strengthened my belief in creating spaces where students can focus on their well-being.  
+This February, I finally made it back to where it all began: two weeks in Rishikesh, India practicing along the Ganges at sunrise. It felt like closing a loop I'd opened at 17.
 
-In 2025, I had the opportunity to teach a yoga flow class at Carleton University's Athletics Center. There I met many students and staff who, like me, were seeking a space and time to attend to their bodies and minds. It was one of the most rewarding experiences of my life, and it inspired me to continue spreading yoga among students and colleagues.  
 
-Yoga has always been a cornerstone of my journey. It has helped me stay grounded and resilient through the rigors of academic life. My hope is to share this practice with others, to help them discover balance, mindfulness, and a sense of connection.  
+<div style="text-align:center; width:300px; margin: 0 auto;">
+  <img src="/images/IMG_ashram.JPG" 
+       alt="Rishikesh, 2026" 
+       style="width:100%; border-radius:8px;">
+  <p style="font-style:italic; margin-top:8px;">
+    
+  </p>
+</div>
 
+
+If our paths cross at a conference and you need a stretch between talks, you know who to ask!
 
 <div style="text-align:center; width:300px; margin: 0 auto;">
   <img src="/images/IMG_3259.JPG" 
