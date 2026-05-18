@@ -17,7 +17,7 @@ This February, I finally made it back to where it all began: two weeks in Rishik
 
 
 <div style="text-align:center; max-width:700px; margin: 24px auto;">
-  <img src="/images/IMG_ashram.JPG" 
+  <img src="/images/cbabd7bc-d956-423c-9244-553647a30899 5.JPG" 
        alt="Tara at a jungle ashram in Rishikesh, India, surrounded by the Himalayan foothills" 
        style="width:100%; border-radius:8px;">
   <p style="font-style:italic; margin-top:8px; font-size:0.95em;">
